@@ -4,13 +4,6 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 ---
 
-## 📌 Daily Coding Streak & Progress
-
-- **Goal:** Maintain daily consistency, prepare for top tech interviews, and earn Geekbits & badges.
-- **Language:** Java ☕ & C++ ⚡
-
----
-
 ## 📂 Repository Structure
 
 | File | Platform | Problem / Topic | Difficulty |
