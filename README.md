@@ -15,7 +15,8 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | File | Platform | Problem / Topic | Difficulty |
 | :--- | :--- | :--- | :--- |
-| `MergeSortedArray.java` | LeetCode 88 | Two Pointers (Fill from Back) | Easy |
+| `MaximumSubarraySumWithOneSquare.java` | GFG POTD (Nov 1) | Kadane's Variant (State DP) | Medium |
+| `MergeSortedArray.java` | LeetCode 88 (Nov 1) | Two Pointers (Fill from Back) | Easy |
 | `ValidParentheses.java` | LeetCode 20 | Stack (Parentheses Matching) | Easy |
 | `LongestCommonPrefix.java` | LeetCode 14 | Strings (Horizontal Scanning) | Easy |
 | `MaximumPackagesWithinTime.java` | GFG POTD | Fixed-Size Sliding Window | Easy |
@@ -51,3 +52,4 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 ---
 
 *Authored with dedication by [Shafaq-codes](https://github.com/Shafaq-codes)*
+
