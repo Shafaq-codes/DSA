@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`LargestSumCycle.java`](./GeeksforGeeks/LargestSumCycle.java) | Cycle Detection (3-State Traversal) | Hard |
 | [`MaximumSubarraySumWithOneSquare.java`](./GeeksforGeeks/MaximumSubarraySumWithOneSquare.java) | Kadane's Variant (State DP) | Medium |
 | [`MaximumPackagesWithinTime.java`](./GeeksforGeeks/MaximumPackagesWithinTime.java) | Fixed-Size Sliding Window | Easy |
 | [`SubsetsWithMEXInRange.java`](./GeeksforGeeks/SubsetsWithMEXInRange.java) | Combinatorics + Prefix Product | Hard |
@@ -38,6 +39,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`RomanToInteger.java`](./LeetCode/RomanToInteger.java) | LeetCode 13 - Right-to-Left Traversal | Easy |
 | [`MergeSortedArray.java`](./LeetCode/MergeSortedArray.java) | LeetCode 88 - Two Pointers | Easy |
 | [`ValidParentheses.java`](./LeetCode/ValidParentheses.java) | LeetCode 20 - Stack Matching | Easy |
 | [`LongestCommonPrefix.java`](./LeetCode/LongestCommonPrefix.java) | LeetCode 14 - Horizontal Scanning | Easy |
