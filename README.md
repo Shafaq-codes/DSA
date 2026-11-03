@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`CountTreePathsWithLimitedMaxEdgeWeight.java`](./GeeksforGeeks/CountTreePathsWithLimitedMaxEdgeWeight.java) | DSU + Offline Queries | Hard |
 | [`LargestSumCycle.java`](./GeeksforGeeks/LargestSumCycle.java) | Cycle Detection (3-State Traversal) | Hard |
 | [`MaximumSubarraySumWithOneSquare.java`](./GeeksforGeeks/MaximumSubarraySumWithOneSquare.java) | Kadane's Variant (State DP) | Medium |
 | [`MaximumPackagesWithinTime.java`](./GeeksforGeeks/MaximumPackagesWithinTime.java) | Fixed-Size Sliding Window | Easy |
@@ -39,6 +40,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`ClimbingStairs.java`](./LeetCode/ClimbingStairs.java) | LeetCode 70 - Dynamic Programming | Easy |
 | [`RomanToInteger.java`](./LeetCode/RomanToInteger.java) | LeetCode 13 - Right-to-Left Traversal | Easy |
 | [`MergeSortedArray.java`](./LeetCode/MergeSortedArray.java) | LeetCode 88 - Two Pointers | Easy |
 | [`ValidParentheses.java`](./LeetCode/ValidParentheses.java) | LeetCode 20 - Stack Matching | Easy |
