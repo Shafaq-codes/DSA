@@ -41,6 +41,8 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`ReverseLinkedList.java`](./LeetCode/ReverseLinkedList.java) | LeetCode 206 - Iterative 3-Pointer | Easy |
+| [`MaximumDepthOfBinaryTree.java`](./LeetCode/MaximumDepthOfBinaryTree.java) | LeetCode 104 - Recursive Tree DFS | Easy |
 | [`MergeTwoSortedLists.java`](./LeetCode/MergeTwoSortedLists.java) | LeetCode 21 - Dummy Head + Two Pointers | Easy |
 | [`ClimbingStairs.java`](./LeetCode/ClimbingStairs.java) | LeetCode 70 - Dynamic Programming | Easy |
 | [`RomanToInteger.java`](./LeetCode/RomanToInteger.java) | LeetCode 13 - Right-to-Left Traversal | Easy |
