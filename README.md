@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`MinimumDays.java`](./GeeksforGeeks/MinimumDays.java) | Conflict Counting Simulation | Medium |
 | [`XOROfAllSubarrayXORs.java`](./GeeksforGeeks/XOROfAllSubarrayXORs.java) | Contribution Technique / Bitwise XOR | Medium |
 | [`CountTreePathsWithLimitedMaxEdgeWeight.java`](./GeeksforGeeks/CountTreePathsWithLimitedMaxEdgeWeight.java) | DSU + Offline Queries | Hard |
 | [`LargestSumCycle.java`](./GeeksforGeeks/LargestSumCycle.java) | Cycle Detection (3-State Traversal) | Hard |
@@ -41,6 +42,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`LinkedListCycle.java`](./LeetCode/LinkedListCycle.java) | LeetCode 141 - Floyd's Cycle Detection | Easy |
 | [`ReverseLinkedList.java`](./LeetCode/ReverseLinkedList.java) | LeetCode 206 - Iterative 3-Pointer | Easy |
 | [`MaximumDepthOfBinaryTree.java`](./LeetCode/MaximumDepthOfBinaryTree.java) | LeetCode 104 - Recursive Tree DFS | Easy |
 | [`MergeTwoSortedLists.java`](./LeetCode/MergeTwoSortedLists.java) | LeetCode 21 - Dummy Head + Two Pointers | Easy |
