@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`SplitArrayInThreeEqualSumSubarrays.java`](./GeeksforGeeks/SplitArrayInThreeEqualSumSubarrays.java) | Prefix Sum / Target Partition | Medium |
 | [`BalancedBinaryTreeCounter.java`](./GeeksforGeeks/BalancedBinaryTreeCounter.java) | DP Recurrence (Space Optimized) | Easy |
 | [`MinimumDays.java`](./GeeksforGeeks/MinimumDays.java) | Conflict Counting Simulation | Medium |
 | [`XOROfAllSubarrayXORs.java`](./GeeksforGeeks/XOROfAllSubarrayXORs.java) | Contribution Technique / Bitwise XOR | Medium |
@@ -43,6 +44,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`SymmetricTree.java`](./LeetCode/SymmetricTree.java) | LeetCode 101 - Mirror Comparison DFS | Easy |
 | [`InvertBinaryTree.java`](./LeetCode/InvertBinaryTree.java) | LeetCode 226 - Recursive DFS Swap | Easy |
 | [`LinkedListCycle.java`](./LeetCode/LinkedListCycle.java) | LeetCode 141 - Floyd's Cycle Detection | Easy |
 | [`ReverseLinkedList.java`](./LeetCode/ReverseLinkedList.java) | LeetCode 206 - Iterative 3-Pointer | Easy |

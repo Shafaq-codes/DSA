@@ -24,3 +24,4 @@ class Solution {
         return (int) prev1;
     }
 }
+
