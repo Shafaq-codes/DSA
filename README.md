@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`MinimumSum.java`](./GeeksforGeeks/MinimumSum.java) | Greedy Digits + BigInt Addition | Medium |
 | [`MinimumRepeatToMakeSubstring.java`](./GeeksforGeeks/MinimumRepeatToMakeSubstring.java) | String Expansion & Matching | Medium |
 | [`SplitArrayInThreeEqualSumSubarrays.java`](./GeeksforGeeks/SplitArrayInThreeEqualSumSubarrays.java) | Prefix Sum / Target Partition | Medium |
 | [`BalancedBinaryTreeCounter.java`](./GeeksforGeeks/BalancedBinaryTreeCounter.java) | DP Recurrence (Space Optimized) | Easy |
@@ -45,6 +46,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`SearchInsertPosition.java`](./LeetCode/SearchInsertPosition.java) | LeetCode 35 - Binary Search | Easy |
 | [`SameTree.java`](./LeetCode/SameTree.java) | LeetCode 100 - Structural & Value DFS | Easy |
 | [`SymmetricTree.java`](./LeetCode/SymmetricTree.java) | LeetCode 101 - Mirror Comparison DFS | Easy |
 | [`InvertBinaryTree.java`](./LeetCode/InvertBinaryTree.java) | LeetCode 226 - Recursive DFS Swap | Easy |
