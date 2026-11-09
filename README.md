@@ -46,6 +46,8 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`MissingNumber.java`](./LeetCode/MissingNumber.java) | LeetCode 268 - Gauss Formula / Math | Easy |
+| [`ConvertSortedArrayToBST.java`](./LeetCode/ConvertSortedArrayToBST.java) | LeetCode 108 - Divide & Conquer BST | Easy |
 | [`SearchInsertPosition.java`](./LeetCode/SearchInsertPosition.java) | LeetCode 35 - Binary Search | Easy |
 | [`SameTree.java`](./LeetCode/SameTree.java) | LeetCode 100 - Structural & Value DFS | Easy |
 | [`SymmetricTree.java`](./LeetCode/SymmetricTree.java) | LeetCode 101 - Mirror Comparison DFS | Easy |
