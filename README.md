@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`UnionOfTwoSortedArraysWithDistinctElements.java`](./GeeksforGeeks/UnionOfTwoSortedArraysWithDistinctElements.java) | Two Pointers (Merge Step) | Easy |
 | [`MinimumSum.java`](./GeeksforGeeks/MinimumSum.java) | Greedy Digits + BigInt Addition | Medium |
 | [`MinimumRepeatToMakeSubstring.java`](./GeeksforGeeks/MinimumRepeatToMakeSubstring.java) | String Expansion & Matching | Medium |
 | [`SplitArrayInThreeEqualSumSubarrays.java`](./GeeksforGeeks/SplitArrayInThreeEqualSumSubarrays.java) | Prefix Sum / Target Partition | Medium |
@@ -46,6 +47,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`PathSum.java`](./LeetCode/PathSum.java) | LeetCode 112 - Root-to-Leaf DFS | Easy |
 | [`MissingNumber.java`](./LeetCode/MissingNumber.java) | LeetCode 268 - Gauss Formula / Math | Easy |
 | [`ConvertSortedArrayToBST.java`](./LeetCode/ConvertSortedArrayToBST.java) | LeetCode 108 - Divide & Conquer BST | Easy |
 | [`SearchInsertPosition.java`](./LeetCode/SearchInsertPosition.java) | LeetCode 35 - Binary Search | Easy |
