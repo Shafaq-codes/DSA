@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`IntersectionPointInYShapedLinkedLists.java`](./GeeksforGeeks/IntersectionPointInYShapedLinkedLists.java) | Two Pointers Traversal | Medium |
 | [`MakeArrayElementsUnique.java`](./GeeksforGeeks/MakeArrayElementsUnique.java) | Greedy Sorting + Increments | Medium |
 | [`UnionOfTwoSortedArraysWithDistinctElements.java`](./GeeksforGeeks/UnionOfTwoSortedArraysWithDistinctElements.java) | Two Pointers (Merge Step) | Easy |
 | [`MinimumSum.java`](./GeeksforGeeks/MinimumSum.java) | Greedy Digits + BigInt Addition | Medium |
@@ -48,6 +49,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`IsomorphicStrings.java`](./LeetCode/IsomorphicStrings.java) | LeetCode 205 - Character Index Mapping | Easy |
 | [`RansomNote.java`](./LeetCode/RansomNote.java) | LeetCode 383 - Frequency Array | Easy |
 | [`PathSum.java`](./LeetCode/PathSum.java) | LeetCode 112 - Root-to-Leaf DFS | Easy |
 | [`MissingNumber.java`](./LeetCode/MissingNumber.java) | LeetCode 268 - Gauss Formula / Math | Easy |
