@@ -31,3 +31,4 @@ class Intersect {
         return (ptr1 != null) ? ptr1.data : -1;
     }
 }
+

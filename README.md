@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`StockBuyAndSellMax2TransactionsAllowed.java`](./GeeksforGeeks/StockBuyAndSellMax2TransactionsAllowed.java) | State Tracking DP (Max 2 Transactions) | Hard |
 | [`IntersectionPointInYShapedLinkedLists.java`](./GeeksforGeeks/IntersectionPointInYShapedLinkedLists.java) | Two Pointers Traversal | Medium |
 | [`MakeArrayElementsUnique.java`](./GeeksforGeeks/MakeArrayElementsUnique.java) | Greedy Sorting + Increments | Medium |
 | [`UnionOfTwoSortedArraysWithDistinctElements.java`](./GeeksforGeeks/UnionOfTwoSortedArraysWithDistinctElements.java) | Two Pointers (Merge Step) | Easy |
@@ -49,6 +50,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`WordPattern.java`](./LeetCode/WordPattern.java) | LeetCode 290 - Bi-directional HashMaps | Easy |
 | [`IsomorphicStrings.java`](./LeetCode/IsomorphicStrings.java) | LeetCode 205 - Character Index Mapping | Easy |
 | [`RansomNote.java`](./LeetCode/RansomNote.java) | LeetCode 383 - Frequency Array | Easy |
 | [`PathSum.java`](./LeetCode/PathSum.java) | LeetCode 112 - Root-to-Leaf DFS | Easy |
