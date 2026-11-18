@@ -16,6 +16,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Topic / Approach | Difficulty |
 | :--- | :--- | :--- |
+| [`XOROfNumberRange.java`](./GeeksforGeeks/XOROfNumberRange.java) | Periodicity of XOR (1 to N) Math Trick | Easy |
 | [`StockBuyAndSellMax2TransactionsAllowed.java`](./GeeksforGeeks/StockBuyAndSellMax2TransactionsAllowed.java) | State Tracking DP (Max 2 Transactions) | Hard |
 | [`IntersectionPointInYShapedLinkedLists.java`](./GeeksforGeeks/IntersectionPointInYShapedLinkedLists.java) | Two Pointers Traversal | Medium |
 | [`MakeArrayElementsUnique.java`](./GeeksforGeeks/MakeArrayElementsUnique.java) | Greedy Sorting + Increments | Medium |
@@ -50,6 +51,7 @@ Daily solutions for **GeeksforGeeks Problem of the Day (POTD)** and **LeetCode (
 
 | Problem File | Problem Title / Topic | Difficulty |
 | :--- | :--- | :--- |
+| [`HappyNumber.java`](./LeetCode/HappyNumber.java) | LeetCode 202 - Floyd's Cycle Detection / Math | Easy |
 | [`WordPattern.java`](./LeetCode/WordPattern.java) | LeetCode 290 - Bi-directional HashMaps | Easy |
 | [`IsomorphicStrings.java`](./LeetCode/IsomorphicStrings.java) | LeetCode 205 - Character Index Mapping | Easy |
 | [`RansomNote.java`](./LeetCode/RansomNote.java) | LeetCode 383 - Frequency Array | Easy |
